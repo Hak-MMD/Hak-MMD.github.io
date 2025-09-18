@@ -25,3 +25,4 @@ Examples of how to use the project:
 * Use the **Navigation Bar** to move between sections.
 
 # Authors
+-Ramone, Mykhaylo Maslyuk, Maksym Orlov
