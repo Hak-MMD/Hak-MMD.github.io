@@ -1,4 +1,4 @@
-Foreign Beauties
+# Foreign Beauties
 
 This is a website about unique jewellery and accessories — from rings, necklaces, and bracelets to charms, earrings, and phone cases. Our designs are inspired by fashion trends, anime, and creative shapes for people who want something original.
 
