@@ -14,7 +14,7 @@ Steps to install and run the project:
 2. Open the main HTML file in a browser (e.g., `index.html`).
 
 
-### Usage
+## Usage
 
 Examples of how to use the project:
 
