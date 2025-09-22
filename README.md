@@ -2,7 +2,7 @@
 
 This is a website about unique jewellery and accessories — from rings, necklaces, and bracelets to charms, earrings, and phone cases. Our designs are inspired by fashion trends, anime, and creative shapes for people who want something original.
 
-# Installation
+## Installation
 
 Steps to install and run the project:
 
@@ -14,7 +14,7 @@ Steps to install and run the project:
 2. Open the main HTML file in a browser (e.g., `index.html`).
 
 
-# Usage
+### Usage
 
 Examples of how to use the project:
 
@@ -24,5 +24,5 @@ Examples of how to use the project:
 * Add items to the **Cart Page** and review before checkout.
 * Use the **Navigation Bar** to move between sections.
 
-# Authors
+### Authors
 -Ramone, Mykhaylo Maslyuk, Maksym Orlov
